@@ -1,0 +1,8 @@
+h1 {
+    font-size: larger;
+    color:blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
