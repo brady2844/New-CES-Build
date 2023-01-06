@@ -1,8 +1,35 @@
 h1 {
-    font-size: larger;
-    color:blue;
+    font-size: 40pt;
+    color:rgb(255, 60, 0);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    background-color: black;
-    padding: 10px;
+    background-color: rgb(7, 7, 7);
+    background-position: center;
+    width: 600px;
+    height: 60px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 100px;
 }
+
+body {
+    background-color: antiquewhite;
+}
+
+#footer {
+  height: 50px;
+  background-color: rgb(226, 21, 164);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  text-align: right;
+  bottom: auto;
+  font-size: 40pt;
+  color: white;
+}
+
+
+
+
+
